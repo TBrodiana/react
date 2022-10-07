@@ -1,0 +1,30 @@
+nav{
+    /*width: 40px;*/
+
+}
+.friendsIconContainer{
+    margin-top: 65px;
+    display:flex;
+    flex-direction: column;
+    background-color: #ffffff;
+    width: 70px;
+    height: 100vh;
+    position: fixed;
+    left: auto;
+    right: 0;
+
+}
+.friend_icon{
+    width: 24px;
+    height: 24px;
+    align-items: center;
+    padding: 10px;
+    border-radius: 100%;
+    /*background-color: #e5e5e7;*/
+    margin: 15px;
+
+}
+.icon:hover{
+    background-color: #f5604f;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.1);
+}

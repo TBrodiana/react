@@ -1,0 +1,45 @@
+.dialogs{
+    border: 1px solid rgba(176, 176, 176, 0.58);
+    display: flex;
+    background-color: #EDF2F6;
+    width:100%;
+    margin-top: 85px;
+}
+.usersDiv{
+    width:15%;
+    text-align: left;
+    justify-content: center;
+
+}
+a {
+    text-decoration: none;
+}
+li {
+    text-decoration: none;
+    list-style: none;
+}
+.user{
+    padding: 10px 10px 10px 25px;
+    border-bottom: 1px solid rgba(211, 211, 211, 0.58);
+    border-right: 1px solid rgba(211, 211, 211, 0.58);
+    height: 20px;
+    align-items: center;
+    justify-content: center;
+    color:#515365;
+    font-weight: bold;
+}
+.messagesDiv{
+    width:85%;
+    background-color: #EDF2F6;
+    overflow: hidden;
+}
+.message{
+    padding: 10px;
+    color: #34465d;
+    text-align: left;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    height: 20px;
+    border-bottom: 1px solid rgba(211, 211, 211, 0.58);
+}
