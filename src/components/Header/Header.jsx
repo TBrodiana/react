@@ -12,7 +12,6 @@ const Header = () => {
     <header>
         <div className={style.header__container}>
             <div className={style.header__logo}>
-                {/*<h2 className={style.logoName}>bestie</h2>*/}
                 <img src={logo} alt="logo"/>
                 <h2 className={style.logoName}>Friendo</h2>
             </div>
