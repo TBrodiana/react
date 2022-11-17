@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react/static/css/main.bc357b5b.css",
-    "main.js": "/react/static/js/main.b0d699ff.js",
+    "main.js": "/react/static/js/main.182fa837.js",
     "static/media/logo2.png": "/react/static/media/logo2.5257b482e4aa08ad41eb.png",
     "static/media/vid-9.jpeg": "/react/static/media/vid-9.3b8e806630bbd4e4eb04.jpeg",
     "static/media/HairCrushJessDay3-1.jpeg": "/react/static/media/HairCrushJessDay3-1.2ec81c871b798ed72403.jpeg",
@@ -22,10 +22,10 @@
     "static/media/message.svg": "/react/static/media/message.c289c531cfaf9f49161c33d4ce1a9d82.svg",
     "static/media/search.svg": "/react/static/media/search.9da7a23e90f9b7efcaeaf125747dddf0.svg",
     "main.bc357b5b.css.map": "/react/static/css/main.bc357b5b.css.map",
-    "main.b0d699ff.js.map": "/react/static/js/main.b0d699ff.js.map"
+    "main.182fa837.js.map": "/react/static/js/main.182fa837.js.map"
   },
   "entrypoints": [
     "static/css/main.bc357b5b.css",
-    "static/js/main.b0d699ff.js"
+    "static/js/main.182fa837.js"
   ]
 }
